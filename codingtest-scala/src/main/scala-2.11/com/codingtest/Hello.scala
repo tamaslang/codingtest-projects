@@ -1,4 +1,4 @@
-package com.equalexperts.codingtest
+package com.codingtest
 
 object Hello {
   def sayHello = "hello"

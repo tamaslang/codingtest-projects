@@ -1,4 +1,4 @@
-package com.equalexperts.codingtest
+package com.codingtest
 
 import org.scalatest.{ShouldMatchers, WordSpec}
 
