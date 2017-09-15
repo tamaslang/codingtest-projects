@@ -2,8 +2,8 @@ name := "codingtest-scala"
 
 version := "1.0"
 
-scalaVersion := "2.11.7"
+scalaVersion := "2.12.3"
 
 libraryDependencies ++=
-  Seq("org.scalatest" %% "scalatest" % "2.2.4" % "test",
-      "org.scalacheck" %% "scalacheck" % "1.11.5" % "test")
+  Seq("org.scalatest" %% "scalatest" % "3.0.1" % "test",
+      "org.scalacheck" %% "scalacheck" % "1.13.5" % "test")
